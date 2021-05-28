@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 1200px;
+    height: 1497px;
+    
+
+}
+.navi{
+   padding-top: 60px;
+    box-sizing: border-box;
+    width: 1200px;
+    height: 200px;
+    
+    
+}
+.navi li {
+    display: inline-block;
+    float: right;
+    padding: 38px;
+    
+    
+
+}.navi a{
+    text-decoration: none;
+    color: #848484;
+}
+.navi a:hover{
+    color: black;
+    font-weight: bold;
+    
+}
+
+.main{
+    background-image: url(./Untitled-1.jpg);
+    width: 1200px;
+    height: 600px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.main h1{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Bell MT';
+    padding-top: 110px;
+}
+.main p{
+    border: 1px solid white;
+    width: 347.84px;
+    height: 77px;
+    font-size: 30px;
+    font-family: 'segoe UI';
+    font-weight: bold;
+    background-color: white;
+    padding-top: px;
+    margin-top: 60px;
+    padding-top: 17px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.content{
+    margin-top: 58px;
+    box-sizing: border-box;
+    height: 415px;
+ 
+    
+}
+.content img[alt~='app']{
+    padding-right: 24.3px;
+   
+}
+.content img{
+    width: 380px;
+    height: 320px;
+ 
+    display: inline-block;
+   
+}
+.content li{
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'segoe UI';
+    text-align: center;
+}
+.a{
+    margin-left: 100px;
+    margin-right: 170px;
+}
+.b{
+    margin-left: 70px;
+}
+
+
+.footer{
+    background-color: #4F4F4F;
+    width: 1200px;
+    height: 144px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'segoe UI';
+    padding-top: 52px;
+    margin-top: 80px;
+}
